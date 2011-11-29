@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /*
  * 2011 Peter 'Pita' Martischka
  *

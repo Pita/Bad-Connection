@@ -1,12 +1,13 @@
 {
   "name"          : "badconnection",
-  "description"   : "",
-  "homepage"      : "https://github.com/Pita/badconnection",
+  "description"   : "A TCP proxy which simulates a bad network connection",
+  "homepage"      : "https://github.com/Pita/Bad-Connection",
   "author"        : "Peter 'Pita' Martischka <petermartischka@googlemail.com>",
   "dependencies"  : {
                       "async"      : "0.1.15",
                       "log4js"     : "0.4.1",
                       "optimist"   : "0.2.8"
                     },
+  "bin"           : "./index.js",
   "version"       : "0.0.1"
 }
