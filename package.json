@@ -8,6 +8,7 @@
                       "log4js"     : "0.4.1",
                       "optimist"   : "0.2.8"
                     },
+  "preferGlobal"  : true,
   "bin"           : "./index.js",
   "version"       : "0.0.1"
 }
